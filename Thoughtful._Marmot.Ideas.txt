@@ -1,0 +1,31 @@
+Thoughtful Marmot Ideas
+-----------------------
+
+
+Elements:
+People
+	Produced by people
+	Have needs and knowledge
+	Needs are met through the consumption of resources
+	Modelled using Finite State Machines
+
+Resources
+	Refined by organisations
+	Consumed by people and organisations
+	Exist in the environment
+-----------------------------------------------------------
+
+Subsystems:
+Organisations
+	Made up of people and resources
+	Refine resources
+	Modify people
+	Built around models containing roles for people
+-------------------------------------------------------------
+
+Examples
+	People - Affinities, Knowledge, Capaility, Age, Health, Needs
+	Resources - Power, Food, Water, Minerals, Parts
+	Organisations - Hospitals, Powerplants, Schools, Farms, Mines, Industry, Pumps, Libraries
+	Knowledge - Subject Areas, Inventions, Experience, Storage
+--------------------------------------------------------------------------------------------------
